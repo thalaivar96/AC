@@ -16,7 +16,7 @@ span {
 }
 
 .hero-block {
-	background-image: url('https://raw.githubusercontent.com/thalaivar96/AC/refs/heads/main/wp5050274.jpg');
+	background-image: url('images/wp5050274.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -142,7 +142,7 @@ section {
 }
 
 .section-title {
-    background-image: url('https://raw.githubusercontent.com/thalaivar96/AC/refs/heads/main/bg.jpg'); /* Replace with the actual filename */
+    background-image: url('images/bg.jpg'); /* Replace with the actual filename */
     background-size: cover;
 	padding-top:15px;
 	height: 400px;
