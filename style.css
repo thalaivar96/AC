@@ -16,7 +16,7 @@ span {
 }
 
 .hero-block {
-	background-image: url('images/wp5050274.jpg');
+	background-image: url('https://raw.githubusercontent.com/thalaivar96/AC/refs/heads/main/wp5050274.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -51,74 +51,7 @@ span {
     background-position: 0% 50%;
   }
 }
-
-.section-title {
-	color:red;
-	text-align:left;
-	font-family: 'Barrio';
-}
-
-section {
-    padding-top:10px;
 	
-    }
-
-    .section-title {
-      font-size: 1.6rem;
-      margin-bottom: 1px;
-      padding-left: 10px;
-      color: #909090;
-    }
-	
-.posts-scroll {
-      display: flex;
-      overflow-x: auto;
-      gap: 2rem;
-      padding-bottom: 0.5rem;
-	  color:#909090;
-	  padding-top:0.5rem;
-	  padding-left:0.5rem;
-	  padding-right:0.5rem;
-    }
-
-    .post-card {
-      flex: 0 0 auto;
-      width: 280px;
-      background: black;
-	  border: 1px solid #999999;
-      border-radius: 12px;
-      padding: 1rem;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      transition: transform 0.2s ease;
-    }
-
-    .post-card:hover {
-      transform: scale(1.03);
-    }
-
-    .post-card h3 {
-      margin: 0 0 0.5rem 0;
-      font-size: 1.2rem;
-	  font-family: 'Barrio';
-	  color:white;
-    }
-
-    .post-card p {
-      font-size: 1rem;
-	  font-family: 'Gowun Dodum';
-      color: #999999;
-    }
-
-    .badge {
-      display: inline-block;
-      background: #999999;
-	  font-family: 'Barrio';
-      color: black;
-      padding: 0.2rem 0.6rem;
-      border-radius: 6px;
-      font-size: 1rem;
-      margin-top: 0.5rem;
-    }
 	
 /* Dark-themed Scrollbar (WebKit) */
 ::-webkit-scrollbar {
@@ -141,18 +74,35 @@ section {
   background: #757575;
 }
 
-.section-title {
-    background-image: url('images/bg.jpg'); /* Replace with the actual filename */
+.hero-space {
+    background-image: url('https://raw.githubusercontent.com/thalaivar96/AC/refs/heads/main/bg.jpg'); /* Replace with the actual filename */
     background-size: cover;
 	padding-top:15px;
-	height: 400px;
+	height: auto;
 	display: flex;
     background-position: center;
     background-repeat: no-repeat;
 	border: 1px solid #333;
 	border-radius:25px;
 	margin-left: auto;
+	margin-top: 10px;
     margin-right: auto;
+}
+.hero-space {
+	color:red;
+    align-items: top;
+    justify-content: left;
+    text-align: left;
+	font-family: 'Cal Sans';
+}
+
+
+
+.hero-space {
+    font-size: 50px;
+    margin-bottom: 1px;
+    padding-left: 50px;
+    color: #FFFFFF;
 }
 
 #logo {
@@ -162,3 +112,20 @@ section {
 	padding-right:5px;
 	padding-left:5px;
 }
+
+h1 {
+	margin-top: 0px;
+	margin-bottom: 3px;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+	font-size: 17px;
+	margin-bottom: 70px;
+	
+}
+
