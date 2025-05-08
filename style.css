@@ -114,6 +114,8 @@ span {
 }
 
 h1 {
+	
+	line-height: 65px; 
 	margin-top: 0px;
 	margin-bottom: 3px;
 }
