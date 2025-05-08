@@ -16,7 +16,7 @@ span {
 }
 
 .hero-block {
-	background-image: url('wp5050274.jpg');
+	background-image: url('https://github.com/thalaivar96/AC/blob/b9a6f128044550991d2ae5fd5c0660ed5787f72e/wp5050274.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -142,7 +142,7 @@ section {
 }
 
 .section-title {
-    background-image: url('bg.jpg'); /* Replace with the actual filename */
+    background-image: url('https://github.com/thalaivar96/AC/blob/b9a6f128044550991d2ae5fd5c0660ed5787f72e/bg.jpg'); /* Replace with the actual filename */
     background-size: cover;
 	padding-top:15px;
 	height: 600px;
