@@ -145,7 +145,7 @@ section {
     background-image: url('https://raw.githubusercontent.com/thalaivar96/AC/refs/heads/main/bg.jpg'); /* Replace with the actual filename */
     background-size: cover;
 	padding-top:15px;
-	height: 600px;
+	height: 400px;
 	display: flex;
     background-position: center;
     background-repeat: no-repeat;
